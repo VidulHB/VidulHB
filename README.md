@@ -11,16 +11,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VidulHB&theme=react-dark&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=VidulHB&theme=react&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=VidulHB&theme=react-dark&show_icons=true&hide_border=true&count_private=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=VidulHB&theme=react&show_icons=true&hide_border=true&count_private=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulHB&theme=react-dark&show_icons=true&hide_border=true&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulHB&theme=react&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
   <br>
