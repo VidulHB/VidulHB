@@ -20,7 +20,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulHB&theme=dark&show_icons=true&bg_color=20232a&hide_border=true&layout=compact" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidulHB&theme=dark&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
   <br>
