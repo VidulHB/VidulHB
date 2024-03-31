@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Vidul+Batawala....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<h2>Welcome to my page!
+I'm Vidul, Fullstack developer from Colombo,Sri Lanka</h2>
 <h2 align="center">🛠️ Tools And Languages 🛠️</h2>
 <p align=center>
   <img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github">
