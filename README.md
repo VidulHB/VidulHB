@@ -1,11 +1,23 @@
-<h4>Hello, I'm Vidul Batawala<h4>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Vidul+Batawala....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<h2 align="center">🛠️ Tools And Languages 🛠️</h2>
+<p align=center>
+  <img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode">
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3">
+  <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-%23F7DF1E?style=for-the-badge&logo=json&logoColor=black">
+  <img alt="JS" src="https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
