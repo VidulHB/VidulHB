@@ -40,12 +40,4 @@
     </a>
   </div>
   <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VidulHB&theme=react-dark&bg_color=20232A&hide_border=true" width="100%"/>
-</p>
-
-<h2 align="center">🔗 Links 🔗</h2>
-<p align=center>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fuesrs%2F723861956934762526">
-  <img alt="Replit" src="https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=replit&logoColor=white&link=https%3A%2F%2Freplit.com%2F%40VidulHB">
 </p>
