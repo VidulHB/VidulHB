@@ -31,11 +31,11 @@ I'm a full-stack developer with a strong focus on back-end development based in 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align=center>
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=vidulhb&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img align="right" src="https://nirzak-streak-stats.vercel.app/?user=vidulhb&theme=dark&hide_border=true" />
 </div>
 <br/>
-<div align=center>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidulhb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
