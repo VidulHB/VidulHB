@@ -8,8 +8,6 @@
 <h2 align="center">🛠️ Tools And Languages 🛠️</h2>
 <p align=center>
   <img alt="Github" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github">
-  <img alt="Replit" src="https://img.shields.io/badge/Replit-%23F26207?style=for-the-badge&logo=replit&logoColor=white">
-  <img alt="Render" src="https://img.shields.io/badge/Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode">
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
